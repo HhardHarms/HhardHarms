@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a dedicated and aspiring Frontend developer. I enjoy working in teams, collaborating and pair programming. Adams Godwin</h1>
+<h1 align="center">Hi 👋, I'm a dedicated and aspiring Frontend developer. I enjoy working in teams, collaborating and pair programming.</h1>
 <h3 align="center">Asides from slapping on my computer keyboard coding fun and intuitive projects, i enjoy travelling and communicating with learned minds </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HhardHarms&label=Profile%20views&color=0e75b6&style=flat" alt="HhardHarms" /> </p>
 
