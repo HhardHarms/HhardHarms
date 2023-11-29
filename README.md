@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HhardHarms&theme=darkhub" alt="HhardHarms" /></a> </p>
 
-- 🌱 I’m currently learning **PHP Laravel, React Native, Firebase, NextJS and Python**
 - 💬 Ask me about **Javascript, ReactJS**
 - 📫 How to reach me **adamsgodwin993@gmail.com**
 - ⚡ Fun fact **I'm open-minded to positive ideas always😉**
